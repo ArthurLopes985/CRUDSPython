@@ -23,5 +23,9 @@ Bruno da Silva Negy
 GitHub: https://github.com/BrunoNegy  
 LinkedIn: https://linkedin.com/in/bruno-da-silva-negy-8884132a6
 
+João Vitor da Silva Martins Vaz                                                                                                                                                            
+GitHub: https://github.com/JoaoVitor674                                                                                                                                                    
+LinkedIn: https://linkedin.com/in/joão-vitor-80a6622b7
+
 ## 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
